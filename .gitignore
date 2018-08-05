@@ -81,3 +81,5 @@ modules.xml
 *.class
 
 target/
+
+*/target/
